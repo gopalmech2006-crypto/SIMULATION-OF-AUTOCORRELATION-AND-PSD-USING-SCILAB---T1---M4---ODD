@@ -28,8 +28,7 @@ R_{XX}(\tau)=IFT[S_{XX}(\omega)]
 =\frac{1}{2\pi}\int_{-\infty}^{\infty}S_{XX}(\omega)e^{j\omega\tau}d\omega
 $$
 
-## ALGORITHM
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/b98c87c0-c769-4e97-9b39-28b054a56502" />
+
 
 
 ### 1. Load or Define the Signal:
