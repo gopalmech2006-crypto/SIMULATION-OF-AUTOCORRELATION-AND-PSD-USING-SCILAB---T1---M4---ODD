@@ -29,6 +29,8 @@ R_{XX}(\tau)=IFT[S_{XX}(\omega)]
 $$
 
 ## ALGORITHM
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/b98c87c0-c769-4e97-9b39-28b054a56502" />
+
 
 ### 1. Load or Define the Signal:
 
@@ -57,3 +59,4 @@ Visualize the autocorrelation function and PSD.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
 ## MODEL GRAPH
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/c5e5c608-4f11-4db7-b748-1ec78de8ae70" />
